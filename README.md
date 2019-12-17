@@ -1,2 +1,1 @@
-# power-monitor
-Be alerted to and log power outages
+Power Monitor allows you to use an Android device to monitor the power source it is plugged into. This can be handy to wake you up if your power is interrupted in the middle of the night. It can also be used as an alarm to alert you when someone unplugs your phone such as if charging in a public place. The alarm sound can be customized or even disabled if you only want to use the logging function.
